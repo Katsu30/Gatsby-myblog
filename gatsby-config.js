@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `K's Blog`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
@@ -11,6 +11,8 @@ module.exports = {
       twitter: `kylemathews`,
     },
   },
+
+
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
